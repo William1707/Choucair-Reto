@@ -12,6 +12,7 @@ public class UTestsData {
     private String strCountry;
 
 
+
     public String getStrCity() {
         return strCity;
     }
@@ -85,6 +86,5 @@ public class UTestsData {
     public void setStrYear(String strYear) {
         this.strYear = strYear;
     }
-
 
 }
